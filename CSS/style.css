@@ -1,0 +1,15 @@
+ .one{
+            background-color: blue;
+        }
+        #two{
+            color:crimson;
+            font-style:italic;
+            font-family:'Times New Roman', Times, serif;
+            font-weight:bolder;
+            font-size:medium;
+            text-decoration:underline;
+        }
+        .three{
+            color:orange;
+            text-decoration:none;   
+        }
