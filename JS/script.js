@@ -291,13 +291,20 @@
 //  console.log(result);
 
 //filter
- var arr=[1,2,3,4,5];
- var even =arr.filter((val) => val%2===0);
- console.log(even);
- var sum=arr.reduce((add,val) =>(add+val),0);
- console.log(sum);
-
-
+//  var arr=[1,2,3,4,5];
+//  var even =arr.filter((val) => val%2===0);
+//  console.log(even);
+//  var sum=arr.reduce((add,val) =>(add+val),0);
+//  console.log(sum);
+ 
+//  var username ={
+//         name:"sk"
+//    }
+//     var user ={
+//     ...username,
+//     password:123456
+// }
+// console.log(user);
 
 
 
